@@ -1,2 +1,8 @@
-@import './common';
-@import './example';
+
+
+//@import './utils/variables';
+@import './base/base-styles';
+@import './components/search-form';
+@import './components/gallery';
+@import './components/load-more-btn';
+@import '~node_modules/modern-normalize/modern-normalize.css';
