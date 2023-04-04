@@ -16,6 +16,7 @@ input {
   width: fit-content;
   cursor: pointer;
   height: auto;
+  outline: none;
   padding: 5px;
   background: #f7f8a4;
   box-shadow: 0 0 2px rgba(20, 89, 89, 0.5), 0 0 4px rgba(20, 89, 89, 0.5);
@@ -32,6 +33,7 @@ button {
   background-color: #145959;
   
   cursor: pointer;
+  outline: none;
 
   &:hover,
   &:focus {
