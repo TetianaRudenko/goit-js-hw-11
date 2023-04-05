@@ -6,7 +6,7 @@ class FetchImages {
     this.BASE_URL = 'https://pixabay.com/api/';
     this.API_KEY = '34783032-e2a986b6ea45253b9670a189f';
     this.page = 0;
-    this.perPage = 100;
+    this.perPage = 40;
     this.lastPage = 0;
     this.totalHits = 0;
     this.hitsLength = 0;
